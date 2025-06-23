@@ -21,7 +21,6 @@ Final Project for CV
   - Python：3.8
   - PyTorch：1.11.0
   - CUDA：11.3
-- 显存占用：最大约 **10.18 GB**
 
 ###  [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting)
 - 使用镜像：`image-8c0b7e9d3e`
@@ -36,11 +35,11 @@ Final Project for CV
 
 ### Autodl 镜像概览
 
-| 方法                    | GitHub 项目链接                                                                 | 镜像名称          | 操作系统     | Python | PyTorch | CUDA  | 显存占用     |
-|-------------------------|----------------------------------------------------------------------------------|------------------|--------------|--------|---------|--------|--------------|
-| Instant-NGP             | [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp)                     | —                | Ubuntu 20.04 | 3.8    | —       | 11.4+  | —            |
-| TensorRF                | [ashawkey/Tensorf](https://github.com/ashawkey/Tensorf)                         | `image-2f4eece27b` | Ubuntu 20.04 | 3.8    | 1.11.0  | 11.3   | 约 10.18 GB  |
-| 3D Gaussian Splatting   | [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) | `image-8c0b7e9d3e` | Ubuntu 20.04 | 3.8    | 2.0.0   | 11.8   | —            |
+| 方法                    | GitHub 项目链接                                                                 | 镜像名称          | 操作系统     | Python | PyTorch | CUDA  | 
+|-------------------------|----------------------------------------------------------------------------------|------------------|--------------|--------|---------|--------|
+| Instant-NGP             | [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp)                     | —                | Ubuntu 20.04 | 3.8    | —       | 11.4+  |
+| TensorRF                | [ashawkey/Tensorf](https://github.com/ashawkey/Tensorf)                         | `image-2f4eece27b` | Ubuntu 20.04 | 3.8    | 1.11.0  | 11.3   |
+| 3D Gaussian Splatting   | [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) | `image-8c0b7e9d3e` | Ubuntu 20.04 | 3.8    | 2.0.0   | 11.8   |
 
 ---
 
